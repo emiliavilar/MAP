@@ -1,6 +1,5 @@
 
 public interface Pizza {
-
-	public void exibriInfo();
 	
+	public void exibirInfo();
 }
