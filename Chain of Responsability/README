@@ -1,0 +1,3 @@
+1. A diferença entre as aplicações é que na aplicação de Brizeno, ele elenca os bancos usando o ENUM,
+já no Imaginairum é usada inteface para a composição dos templates. 
+2. A semelhança é que a forma da chamada do elemento percorre todo o objeto.
